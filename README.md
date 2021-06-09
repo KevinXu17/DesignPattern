@@ -10,7 +10,7 @@ communication between objects
 4) J2EE pattern
 
 1. Factory Pattern
-![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/FactoryPattern.png?raw=true)
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/FactoryPattern.png?raw=true)
 
 1. Facade pattern
-![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/FacadePattern.png?raw=true)
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/FacadePattern.png?raw=true)
