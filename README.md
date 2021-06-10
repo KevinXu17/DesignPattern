@@ -18,4 +18,9 @@ MVC; business delegate; composite entity; DAO; front controller; intercepting fi
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/FactoryPattern.png?raw=true)
 
 2. Abstract Factory Pattern
+
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/AbstractFactoryPattern.png?raw=true)
+
+3. Singleton Pattern
+
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/SingletonPattern.png?raw=true)
