@@ -24,3 +24,7 @@ MVC; business delegate; composite entity; DAO; front controller; intercepting fi
 3. Singleton Pattern
 
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/SingletonPattern.png?raw=true)
+
+4. Builder Pattern
+
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/BuilderPattern.png?raw=true)
