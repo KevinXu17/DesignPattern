@@ -13,7 +13,7 @@ chain of responsibility; command; interpreter; iterator; mediator; memento; obse
 4) J2EE pattern
 MVC; business delegate; composite entity; DAO; front controller; intercepting filter; service locator; transfer object
 1. Factory Pattern
-
+create object without exposing the creation logic to the client and refer to newly created object <u>using a common interface</u>.
 
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/FactoryPattern.png?raw=true)
 
@@ -26,5 +26,10 @@ MVC; business delegate; composite entity; DAO; front controller; intercepting fi
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/SingletonPattern.png?raw=true)
 
 4. Builder Pattern
+builds a complex object <u>using simple objects and using a step by step approach</u>.
 
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/BuilderPattern.png?raw=true)
+
+5. Prototype Pattern  careful about deep  vs shallow copy
+
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/PrototypePattern.png?raw=true)
