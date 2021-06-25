@@ -33,3 +33,15 @@ builds a complex object <u>using simple objects and using a step by step approac
 5. Prototype Pattern  careful about deep  vs shallow copy
 
 ![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/PrototypePattern.png?raw=true)
+
+6. Adapter Pattern // combine 2 imcompatible implement (children use children)
+
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/AdapterPattern.png?raw=true)
+
+7. Bridge Patter // seperate 2 too large compatible components (abstract use interface)
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/BridgePattern1.png?raw=true)
+
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/BridgePattern2.png?raw=true)
+
+8. Filter Pattern
+![Image of Facade pattern](https://github.com/KevinXu17/DesignPattern/blob/master/Img/FilterPattern.png?raw=true)
